@@ -1,1 +1,0 @@
-# remote_data_acquisition_and_control_system
